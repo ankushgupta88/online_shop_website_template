@@ -1,0 +1,21 @@
+/*----sign-in-----*/
+
+form {
+  margin: 30px !important;
+  padding: 40px;
+  background: #fff;
+  border-radius: 10px;
+}
+body {
+  margin: 0 auto;
+  background: #dedede;
+  width: 600px;
+}
+input {
+  display: inline-block;
+  width: 100%;
+  margin: 8px 0 6px;
+  height: 32px;
+}
+#gender {
+}
